@@ -1,0 +1,19 @@
+[Message: Preloader] BepInEx 6.0.0-be.755 - PickCrafter (15/04/2026 02:15:07)
+[Message: Preloader] Built from commit 3fab71a1914132a1ce3a545caf3192da603f2258
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   :   BepInEx] Running under Unity 2022.3.62f3
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Warning:Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [PickCrafter Trainer 1.0.0]
+[Info   :PickCrafter Trainer] PickCrafter Trainer v1.0.0 loaded — press F8 in-game.
+[Info   :Il2CppInterop] Registered mono type PickCrafterTrainer.TrainerComponent in il2cpp domain
+[Message:   BepInEx] Chainloader startup complete
+[Info   :PickCrafter Trainer] [GiveChest] ender → TryAddChest=True
